@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(0, 213, 255);
+}
+
+#logindiv{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: rgb(34, 0, 255);
+    border-radius: 5%;
+    width: 25%;
+    margin: 20px auto;
+    padding: 10px;
+    box-shadow: 10px 10px 10px rgb(14, 6, 60);
+}
+
+#subbttn{
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    font-size: large;
+    border-radius: 10%;
+}
+
+a:link{
+    color: white;
+}
